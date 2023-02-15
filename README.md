@@ -28,7 +28,7 @@ The following are the skills I guarantee
 <br />
 
 
-### ⚡ Connect with me:
+### ⚡ Contact me:
 
 <a href="https://www.fiverr.com/users/bielchenkodev"><img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" /></a>
 <a href="https://join.skype.com/invite/yhbi90WqroN4"><img align="left" alt="Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
