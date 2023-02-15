@@ -30,7 +30,7 @@ The following are the skills I guarantee
 
 ### ⚡ Connect with me:
 
-<a href="https://t.me/webdev0928"><img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://t.me/webdev0928](https://www.fiverr.com/users/bielchenkodev"><img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" /></a>
 <a href="https://join.skype.com/invite/yhbi90WqroN4"><img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
 <br />
 
